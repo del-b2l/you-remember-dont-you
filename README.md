@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # YOU REMEMBER, DON'T YOU?
 
 A small Godot 4 + FastAPI skeleton for a PS1-inspired first-person psychological
@@ -55,3 +56,7 @@ curl -X POST http://127.0.0.1:8000/dialogue \
 - No ending or save system is implemented.
 
 See `docs/GAME_DESIGN.md` and `docs/API_CONTRACT.md`.
+=======
+# you-remember-dont-you
+Team welovekitties123's submission for MLH Hack Day 2026, Karachi
+>>>>>>> 269260c7a5e8d64e8f33ec5153e03a2de5c51d6a
